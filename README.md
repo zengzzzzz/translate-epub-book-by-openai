@@ -16,7 +16,7 @@ translate epub books Using AI translate, the translation is not perfect, but it 
 
 ## attention
 
-1. the openai api key is not free, you can apply for it on the official website
+1. the openai api key is not free, you can apply for it on the [official website](https://platform.openai.com/)
 
 # thanks
 
