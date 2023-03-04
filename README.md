@@ -1,5 +1,5 @@
 # translate epub books by openai api
-translate epub books Using AI translate, the translation is not perfect, but it is very interesting.
+translate epub books Using AI translate, the translation is not perfect, but it is very interesting. Welcome to pr .
 
 ![image](https://raw.githubusercontent.com/zengzzzzz/zengzzzzz-img/main/tranlate_epub_book_by_openai/readme_pic.jpg)
 
@@ -20,6 +20,6 @@ translate epub books Using AI translate, the translation is not perfect, but it 
 
 # thanks
 
-this project is based on the yihong's projects and I change it for myself. Batch translation is faster and less fee , suitable for those who do not pursue the perfect format .Delete the function which is not used. It is geared more toward programmers now than everyone else.
+this project is based on the yihong's projects and I change it for myself. Batch translation is faster and less fee , suitable for those who do not pursue the perfect format .Delete the function which is not used. It is geared more toward programmers now than everyone else. 
 
 - @[yihong](https://github.com/yihong0618)
