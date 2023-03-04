@@ -142,5 +142,5 @@ if __name__ == "__main__":
         raise Exception("Need openai API key, please google how to")
     if not options.book_name.endswith(".epub"):
         raise Exception("please use epub file")
-    e = BEPUB("test_books/lemo.epub", OPENAI_API_KEY, options.batch_size)
+    e = BEPUB(options.book_name, OPENAI_API_KEY, options.batch_size)
     e.translate_book()
