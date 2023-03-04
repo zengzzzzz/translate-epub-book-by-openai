@@ -1,7 +1,7 @@
 # translate epub books by openai api
 translate epub books Using AI translate, the translation is not perfect, but it is very interesting.
 
-![image](https://user-images.githubusercontent.com/15976103/222317531-a05317c5-4eee-49de-95cd-04063d9539d9.png)
+![image](https://raw.githubusercontent.com/zengzzzzz/zengzzzzz-img/main/tranlate_epub_book_by_openai/readme_pic.jpg)
 
 ## ready
 
