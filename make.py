@@ -96,8 +96,8 @@ class BEPUB:
                         batch_count += 1
                         if batch_count == self.batch_size:
                             translated_batch = self.translate_model.translate([p.text for p in batch_p])
-                            for j, c_p in enumerate(batch_p):
-                                c_p.string = c_p.text + translated_batch[j]
+                            # to avoid the openai response is not the same order as the request
+                            batch_p[-1].string = batch_p[-1].text + ' '.join(map(str, translated_batch))
                             batch_p = []
                             batch_count = 0
                     # Process any remaining paragraphs in the last batch
